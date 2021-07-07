@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240045161674",
+    "project_id": "interactive-bar",
+    "storage_bucket": "interactive-bar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240045161674:android:3f6be61b39b601b2ea4833",
+        "android_client_info": {
+          "package_name": "com.example.interactive_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240045161674-mmd0h1k9nqh3rhdiin1s83cdh0bdsssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8Yt46E-E59iKvFbEkZ1NOzvuj_rXITc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240045161674-mmd0h1k9nqh3rhdiin1s83cdh0bdsssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
