@@ -1,16 +1,20 @@
-# interactive_bar
+# Interactive Bar
 
-A new Flutter project.
+An application for a bar that wants to be more modern and handle ordering the food and managing the orders in an easier way.
+Using this application you can attract more customers by giving them a great user experience with minimal wait time.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+This appliction is made with [Flutter](https://flutter.dev/).
+It uses Fireabse as a backend and manages the in app state using [hooks_riveropd](https://pub.dev/packages/hooks_riverpod).
 
-A few resources to get you started if this is your first Flutter project:
+## Inspiration
+The inspiration came from a dribble post posted by [Gal Shir](https://dribbble.com/galshir).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can access the post from [here](https://dribbble.com/shots/1916308-Interactive-Bar-App).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In addition to some other screens and UX principles were added in order to complete the app.
+
+## Contact
+
+For more information feel free to email me at: *yair.chen2000@gmail.com*.
